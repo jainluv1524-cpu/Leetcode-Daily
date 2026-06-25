@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -54,8 +56,25 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0005-longest-palindromic-substring) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
