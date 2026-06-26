@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
@@ -77,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
