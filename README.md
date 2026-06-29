@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0005-longest-palindromic-substring) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
 | ------- |
