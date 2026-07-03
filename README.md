@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0062-unique-paths) |
+| [3620-network-recovery-pathways](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Combinatorics
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -129,8 +133,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
