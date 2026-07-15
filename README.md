@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0062-unique-paths) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
