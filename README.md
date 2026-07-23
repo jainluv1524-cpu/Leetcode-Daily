@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0062-unique-paths) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3620-network-recovery-pathways) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
 |  |
