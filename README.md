@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3620-network-recovery-pathways) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0486-predict-the-winner](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
@@ -250,4 +253,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
