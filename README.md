@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0940-distinct-subsequences-ii) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
