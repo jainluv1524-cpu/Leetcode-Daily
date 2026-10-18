@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1927-sum-game) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -362,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -502,10 +508,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -530,4 +538,16 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
