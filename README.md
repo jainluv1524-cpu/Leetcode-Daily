@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0062-unique-paths) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0836-rectangle-overlap) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/jainluv1524-cpu/Leetcode-Daily/tree/master/0835-image-overlap) |
